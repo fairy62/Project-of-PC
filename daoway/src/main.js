@@ -1,8 +1,8 @@
 import Vue from 'vue'
 import app from './app.vue'
-import ElementUI from 'element-ui'
 import router from './router'
 import './common/stylus/fonts.styl'
+import ElementUI from 'element-ui'
 
 Vue.use(ElementUI)
 

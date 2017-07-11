@@ -1,10 +1,7 @@
 <template>
   <div id="daoway">
     <daoway-header></daoway-header>
-    <div class="main">
-      <router-link to="/"></router-link>
-      <router-view></router-view>
-    </div>
+    <router-view></router-view>
     <daoway-footer></daoway-footer>
   </div>
 </template>

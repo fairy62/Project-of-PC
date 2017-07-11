@@ -2,107 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e05780-cc0d-4bc1-9636-b64c97aeea97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/common/fonts/icomoon.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/common/fonts/icomoon.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/common/fonts/icomoon.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/1255ea44-8e38-46c6-b336-3d29b2721844_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/13949961-5a6d-4567-bf3f-5745256b85f6_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/2c4b29c4-ff73-4a9c-9969-af410cbcd959_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/2d791ed6-575f-468d-8323-eb74ac5a9bb5_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/394c33e9-f833-4589-9198-ac0556705bc4_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/3a810e7c-f7a0-4583-93ea-9c4b215bc28f_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/3d8cd401-13f8-4e01-92dc-5dfc6dbd4d37_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/4087f66d-6bb1-4278-8306-49b4a4be1514_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/41491c6c-afd7-449e-9037-e2bf6d72d430_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/50e75ea2-9320-42c9-9b6e-c1ab23d56ecb_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/58d98a3c-e5df-44ea-a098-cb461a89d829_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/5a4a228b-c5a5-4a15-88d8-444965e47006_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/5cf8680f-0264-4686-ba05-145700db6063_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/5e1a0027-f54d-497e-beb0-e0047c5153cd_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/5f8f3273-f3a2-40b8-915f-a0752d58c315_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/60720281-1038-4e27-82b0-ce79bd8598fc_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/612403f7-0b6f-4bbf-801b-e5ad6935660e_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/78a2dc09-d1d4-4a4e-a56c-c62d94cbd909_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/83a8ce32-cb8e-4256-9059-377b9a7391b3_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/875f3a0d-65a0-480b-b81c-5d5f64d57164_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/876cd069-5780-4f26-a7fa-f0f60ecc8afd_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/895fc5e6-0156-450b-b5f3-b0fe89670a2b_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/8d8cc9b6-c968-47ff-b294-73d292d1e69c_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/91180dee-868e-410f-a7de-df0149ce4d11_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/915d51ad-a07f-476a-aec4-fcfdb88a33f3_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/96826989-a579-4093-b3a5-54949d25bc24_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/a42e06d1-d4be-434d-baa2-81d81dde0ad5_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/a71fcfd6-a2b3-43e2-82ea-c1ac4c6150f9_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/a8d154f1-aac0-42d4-aff1-e2bc7f56bdc8_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/a9a31e16-16bf-4128-894e-e6a5ceab3f66_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/ae76cec7-343e-4556-9d8c-f4a614dd5d81_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/banner1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/banner2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/banner3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/bd3504fb-6c13-41f1-8fac-d963ab85db5e_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/c0ca2384-09f6-44a7-9189-a4c0112ca82f_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/c18f24bc-b6f7-4b1e-9ea8-f6bf85d995d9_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/c358bd9f-2e52-4537-86b4-c356276a3515_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/c47841a8-a1a3-43ab-8233-d75f4d719371_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/c74ac864-a9f3-4db5-8807-c4628ef28341_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/cce534a8-1360-487b-8e18-c404b9b71319_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/cd8be51d-4b4e-4713-bb0b-73508dc37c06_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/citypoint.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/d09e9ebb-4e51-4687-b70d-3937f3c9d9bd_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/d6ebc1f0-6364-408c-b3fa-5a899e4eba7a_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/d90b3c02-2a4e-4b18-b82b-9cfc7d43947f_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/dd85ffdb-cf7a-418d-8330-fb4343abd363_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/e1aebb92-8548-45b6-a1fe-f5d428e1c064_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/ee1cb10d-7933-4fae-bcca-5c87e7ed4e18_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/f1ed7345-faae-49fe-8066-183390a79254_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/fc7e170f-b98f-4c33-8a8e-5c7e647b38c2_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/ff748963-fd8d-4137-ab85-7aa388496f65_thumb.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/houtai-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/img/main/quan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/static/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project PC.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/.eslintrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/.postcssrc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/build/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/build/check-versions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/build/dev-client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/build/dev-server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/build/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/build/vue-loader.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/build/webpack.base.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/build/webpack.dev.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/build/webpack.prod.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/config/dev.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/config/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/config/prod.env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/app.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/common/fonts/icomoon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/common/stylus/fonts.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/common/stylus/mixins.styl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/components/facilitator/facilitator.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/components/footer/footer.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/components/header/header.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/components/main/main.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/components/serviceDetail/serviceDetail.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/components/serviceItem/serviceItem.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/components/shanghu/shanghu.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/static/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/components/footer/footer.vue" afterPath="$PROJECT_DIR$/daoway/src/components/footer/footer.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue" afterPath="$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -116,12 +18,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="app.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daoway/src/app.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="-396">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#245#296#0" expanded="true" />
               </folding>
@@ -152,19 +54,71 @@
       <file leaf-file-name="main.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daoway/src/components/main/main.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            <state relative-caret-position="-130">
+              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mainList.vue" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue">
+      <file leaf-file-name="footer.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/daoway/src/components/footer/footer.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="246">
+              <caret line="127" column="20" lean-forward="false" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+              <folding>
+                <element signature="n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#1232#1238#0" expanded="true" />
+                <element signature="e#1445#1698#0" expanded="false" />
+                <element signature="e#1590#1628#0" expanded="false" />
+                <element signature="e#1712#1937#0" expanded="false" />
+                <element signature="e#1952#2442#0" expanded="false" />
+                <marker date="1499741436272" expanded="false" signature="498:1174" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daoway/src/components/header/header.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="957">
+              <caret line="189" column="5" lean-forward="false" selection-start-line="189" selection-start-column="5" selection-end-line="189" selection-end-column="5" />
+              <folding>
+                <element signature="n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#el-row#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#el-col#2;n#el-row#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#2721#2725#1" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#3366#3370#1" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#4014#4018#1" expanded="true" />
+                <element signature="n#li#3;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#4185#4189#1" expanded="true" />
+                <element signature="n#li#4;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#4356#4360#1" expanded="true" />
+                <element signature="n#li#5;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#4527#4531#1" expanded="true" />
+                <element signature="n#li#6;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#4698#4702#1" expanded="true" />
+                <element signature="n#li#7;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#4869#4873#1" expanded="true" />
+                <element signature="n#li#8;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#5040#5044#1" expanded="true" />
+                <element signature="n#li#9;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#5211#5215#1" expanded="true" />
+                <element signature="e#5348#5369#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,8 +126,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daoway/src/router/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            <state relative-caret-position="99">
+              <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -200,7 +154,6 @@
         <option value="$PROJECT_DIR$/daoway/.babelrc" />
         <option value="$PROJECT_DIR$/daoway/src/components/nav/nav.vue" />
         <option value="$PROJECT_DIR$/daoway/src/components/banner/banner.vue" />
-        <option value="$PROJECT_DIR$/daoway/src/components/footer/footer.vue" />
         <option value="$PROJECT_DIR$/daoway/src/components/facilitator/facilitator.vue" />
         <option value="$PROJECT_DIR$/daoway/src/components/serviceItem/serviceItem.vue" />
         <option value="$PROJECT_DIR$/daoway/src/components/serviceDetail/serviceDetail.vue" />
@@ -213,6 +166,7 @@
         <option value="$PROJECT_DIR$/daoway/src/components/main/main.vue" />
         <option value="$PROJECT_DIR$/daoway/src/components/header/header.vue" />
         <option value="$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue" />
+        <option value="$PROJECT_DIR$/daoway/src/components/footer/footer.vue" />
       </list>
     </option>
   </component>
@@ -232,10 +186,10 @@
     <handled-path value="$PROJECT_DIR$/daoway/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="233" />
+    <option name="y" value="50" />
+    <option name="width" value="953" />
+    <option name="height" value="724" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -253,10 +207,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project PC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project PC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="project PC" />
@@ -447,7 +409,59 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="footer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project PC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project PC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="facilitator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project PC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project PC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="daoway" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylus" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -475,6 +489,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -544,6 +560,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -577,31 +599,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1499647672381</updated>
-      <workItem from="1499647674411" duration="38500000" />
+      <workItem from="1499647674411" duration="38783000" />
+      <workItem from="1499733503228" duration="7893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38500000" />
+    <option name="totallyTimeSpent" value="46676000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="233" y="50" width="953" height="724" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21130952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19781421" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28150573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33878887" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35194585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -636,86 +660,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/daoway/README.md">
+    <entry file="file://$PROJECT_DIR$/daoway/src/app.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/.eslintignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-99">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/npm-debug.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-576">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceItem/serviceItem.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/components/footer/footer.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../vue from git/170225_ele/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#23#44#0" expanded="false" />
+            <element signature="e#245#296#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/components/facilitator/facilitator.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -727,57 +678,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/main.js">
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/facilitator/facilitator.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#21#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/img/main/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/components/shanghu/shanghu.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="94" column="18" lean-forward="false" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
-          <folding>
-            <element signature="n#div#0;n#el-col#1;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#el-col#1;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#el-col#1;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#el-col#1;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#input#1;n#div#0;n#div#0;n#div#0;n#div#0;n#el-col#1;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#el-col#1;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#a#0;n#div#4;n#div#0;n#el-col#1;n#el-row#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="e#3466#3487#0" expanded="false" />
-            <element signature="e#3733#3820#0" expanded="false" />
-            <element signature="e#3838#3871#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/img/main/banner1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/components/banner/banner.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        <state relative-caret-position="66">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -790,19 +694,335 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#7;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#8;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#9;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#38876#41364#0" expanded="false" />
+            <element signature="e#38976#41364#0" expanded="false" />
+            <element signature="e#38998#39311#0" expanded="false" />
+            <element signature="e#39343#41364#0" expanded="false" />
+            <element signature="e#39371#39468#0" expanded="false" />
+            <element signature="e#39496#41364#0" expanded="false" />
+            <element signature="e#39703#41364#0" expanded="false" />
+            <element signature="e#39996#40295#0" expanded="false" />
+            <element signature="e#40343#40745#0" expanded="false" />
+            <element signature="e#40787#41364#0" expanded="false" />
+            <element signature="e#41022#41364#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/.eslintignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-99">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-debug.log" />
+    <entry file="file://$PROJECT_DIR$/daoway/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceItem/serviceItem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../vue from git/170225_ele/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/img/main/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/shanghu/shanghu.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="94" column="18" lean-forward="false" selection-start-line="94" selection-start-column="18" selection-end-line="94" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/img/main/banner1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/banner/banner.vue" />
+    <entry file="file://$PROJECT_DIR$/daoway/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/img/main/5cf8680f-0264-4686-ba05-145700db6063_thumb.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/common/stylus/fonts.styl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="806" column="14" lean-forward="false" selection-start-line="806" selection-start-column="14" selection-end-line="806" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#5;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#6;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#7;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#7;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#8;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#8;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#9;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#1;n#div#1;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#2;n#div#1;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#3;n#div#1;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#2;n#div#0;n#router-link#4;n#div#1;n#div#1;n#div#0;n#div#0;n#div#9;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#38876#41364#0" expanded="false" />
+            <element signature="e#38976#41364#0" expanded="false" />
+            <element signature="e#38998#39311#0" expanded="false" />
+            <element signature="e#39343#41364#0" expanded="false" />
+            <element signature="e#39371#39468#0" expanded="false" />
+            <element signature="e#39496#41364#0" expanded="false" />
+            <element signature="e#39703#41364#0" expanded="false" />
+            <element signature="e#39996#40295#0" expanded="false" />
+            <element signature="e#40343#40745#0" expanded="false" />
+            <element signature="e#40787#41364#0" expanded="false" />
+            <element signature="e#41022#41364#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/main/main.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/daoway/src/app.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="-396">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#245#296#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceDetail/serviceDetail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/facilitator/facilitator.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/daoway/src/components/header/header.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
+        <state relative-caret-position="957">
           <caret line="189" column="5" lean-forward="false" selection-start-line="189" selection-start-column="5" selection-end-line="189" selection-end-column="5" />
           <folding>
             <element signature="n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
@@ -841,24 +1061,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/router/index.js">
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/footer/footer.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/img/main/5cf8680f-0264-4686-ba05-145700db6063_thumb.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="246">
+          <caret line="127" column="20" lean-forward="false" selection-start-line="127" selection-start-column="20" selection-end-line="127" selection-end-column="20" />
+          <folding>
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#1232#1238#0" expanded="true" />
+            <element signature="e#1445#1698#0" expanded="false" />
+            <element signature="e#1590#1628#0" expanded="false" />
+            <element signature="e#1712#1937#0" expanded="false" />
+            <element signature="e#1952#2442#0" expanded="false" />
+            <marker date="1499741436272" expanded="false" signature="498:1174" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

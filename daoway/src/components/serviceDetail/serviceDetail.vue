@@ -74,7 +74,6 @@
             <img src="../../img/main/daowayApp.png" alt="" >
           </div>
         </div>
-
       </div>
     </div>
     <v-footer></v-footer>
@@ -117,7 +116,7 @@
           height: 220px
           background: #fff
           border: 1px solid #e5e5e5;
-          & .pic
+          .pic
             margin: 30px
           .price
             width: 210px

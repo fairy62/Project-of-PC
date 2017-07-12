@@ -3,7 +3,7 @@
     <d-header></d-header>
     <div class="facilitator">
       <h2>服务商</h2>
-      <div class="service-center">
+      <div class="service-center1">
         <div class="centerleft">
           <div class="tabdiv">
             <ul class="ulactivety">
@@ -13,7 +13,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -24,7 +24,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -35,7 +35,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -46,7 +46,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -57,7 +57,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -68,7 +68,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -79,7 +79,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -90,7 +90,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -101,7 +101,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -112,7 +112,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -123,7 +123,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -134,7 +134,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -145,7 +145,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -156,7 +156,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -167,7 +167,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -178,7 +178,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -189,7 +189,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -200,7 +200,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -211,7 +211,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -222,7 +222,7 @@
                   <img src="../../img/main/home1.png" alt="">
                   <b>宜生到家</b>
                 </p>
-                <p class="goodjob">
+                <p class="goodjob1">
                   已接单11952单
                   <i>好评98%</i>
                 </p>
@@ -267,12 +267,13 @@
   img
     vertical-align middle
   .facilitator
+    overflow hidden
     h2
       width 1200px
       line-height 85px
       margin:0 auto
       font-size 18px
-    .service-center
+    .service-center1
       width: 1200px
       margin:0 auto
       overflow hidden
@@ -286,6 +287,7 @@
               width: 232px
               height: 300px
               border:1px solid #eaeaea
+              box-sizing border-box
               padding: 10px
               float left
               margin-right 10px
@@ -294,10 +296,10 @@
               img
                 width: 210px
                 height: 210px
+                margin-bottom 10px
               .liname
                 height: 26px
                 line-height 26px
-                margin-top 15px
                 white-space nowrap
                 overflow hidden
                 text-overflow ellipsis
@@ -305,7 +307,7 @@
                   margin-bottom 5px
                   width: 18px
                   height: 17px
-              .goodjob
+              .goodjob1
                 font-size 12px
                 color: #929292
                 height: 26px
@@ -315,6 +317,8 @@
                 text-overflow ellipsis
                 i
                   float: right
+            li:hover
+              box-shadow: 6px 6px 14px 0 #eaeaea;
         .getServiceList
           width: 100%
           height: 152px

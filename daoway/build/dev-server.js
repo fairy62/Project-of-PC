@@ -21,6 +21,33 @@ var autoOpenBrowser = !!config.dev.autoOpenBrowser
 var proxyTable = config.dev.proxyTable
 
 var app = express()
+
+/* start mock data */
+const data = require('../src/mock/data.json')
+const baojie = data.baojie
+const anmo = data.anmo
+const weixiu = data.weixiu
+// 路由器
+const router = express.Router()
+// 注册路由
+router.get('/item/baojie',function (req, res) {
+  res.send({
+    data: baojie
+  })
+})
+router.get('/item/anmo',function (req, res) {
+  res.send({
+    data: anmo
+  })
+})
+router.get('/item/weixiu',function (req, res) {
+  res.send({
+    data: weixiu
+  })
+})
+// 启动路由器
+app.use('/api',router)
+/* end mock data */
 var compiler = webpack(webpackConfig)
 
 var devMiddleware = require('webpack-dev-middleware')(compiler, {

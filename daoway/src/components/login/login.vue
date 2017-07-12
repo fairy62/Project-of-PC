@@ -72,10 +72,11 @@
           border-radius 12px 0 0 0
           display inline-block
           background #ddd
-          width 40px
+          width 38px
           height 50px
           line-height 50px
           float left
+          border-right:1px solid #ccc
         .user_in
           display inline
           width 260px
@@ -93,10 +94,11 @@
           border-radius 0 0 0 12px
           display inline-block
           background #ddd
-          width 40px
+          width 38px
           height 50px
           line-height 50px
           float left
+          border-right 1px solid #ccc
         .user_on
           display inline
           width 260px

@@ -3,7 +3,6 @@
 
   <div class="register">
 
-
     <div class="content">
 
       <img src="./houtai-logo.png">
@@ -82,13 +81,14 @@
           height 50px
           border 1px solid #ccc
           border-radius 5px
-          outline none
-          font-size 18px
+          outline:none
+          padding-left:6px
+          font-size 14px
         .pic_code
           float left
           width 202px
           height 50px
-          margin-left 25px
+          margin-left 15px
         .user_pic
           float left
           display inline-block
@@ -96,15 +96,17 @@
           height 50px
           border 1px solid #ccc
           outline none
-          font-size 18px
-          margin-left 25px
+          font-size 14px
+          margin-left 15px
+          padding-left:6px
         .btn2
           position absolute
           width 96px
           height 102px
-          top 142px
-          right 35px
+          top 138px
+          right 28px
           border 1px solid #bbb
+          background-color #EEEEEE
         .user_code
           margin-top 10px
           display inline-block
@@ -113,7 +115,8 @@
           border 1px solid #ccc
           border-radius 5px
           outline none
-          font-size 18px
+          font-size 14px
+          padding-left:6px
         .user_pa
           margin-top 10px
           display inline-block
@@ -122,13 +125,16 @@
           border 1px solid #ccc
           border-radius 5px
           outline none
-          font-size 18px
+          font-size 14px
+          padding-left:6px
         .radio
           display block
-          margin-left -100px
+          margin-left -115px
           margin-top 10px
+          font-size 14px
           a
             color #3788b4
+            padding-left 5px
     .click_register
       text-align center
       margin-top 20px
@@ -143,14 +149,15 @@
     .register_info
       display inline-block
       margin-top 20px
+      font-size 14px
       .register_l
         display inline-block
-        color deepskyblue
+        color #3788b4
         margin-left 40px
         margin-bottom 20px
       .register_r
         display inline-block
-        color deepskyblue
+        color #3788b4
         margin-left 120px
         margin-bottom 20px
 

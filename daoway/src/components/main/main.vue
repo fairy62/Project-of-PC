@@ -1,5 +1,6 @@
 <template>
   <div>
+    <d-header></d-header>
     <div class="carousel">
       <div class="flicker-example">
         <!--banner区域-->
@@ -105,14 +106,19 @@
       </div>
     </div>
     <main-list></main-list>
+    <d-footer></d-footer>
   </div>
 </template>
 
 <script>
   import mainList from '../mainList/mainList.vue'
+  import header from '../header/header.vue'
+  import footer from '../footer/footer.vue'
   export default {
     components: {
-      'main-list': mainList
+      'd-header': header,
+      'main-list': mainList,
+      'd-footer': footer
     }
   }
 </script>

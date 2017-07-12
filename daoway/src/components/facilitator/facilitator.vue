@@ -1,4 +1,6 @@
 <template>
+  <div>
+    <d-header></d-header>
     <div class="facilitator">
       <h2>服务商</h2>
       <div class="service-center">
@@ -241,10 +243,21 @@
         </div>
       </div>
     </div>
+    <d-footer></d-footer>
+  </div>
 </template>
 
 <script>
-    export default {}
+
+  import header from '../header/header.vue'
+  import footer from '../footer/footer.vue'
+
+    export default {
+      components: {
+        'd-header': header,
+        'd-footer': footer
+      }
+    }
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">

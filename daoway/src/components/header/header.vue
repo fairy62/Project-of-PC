@@ -37,7 +37,7 @@
                   <a href="###">关于我们</a>
                 </li>
                 <li class="shanghu">
-                  <router-link to="register">
+                  <router-link to="login">
                     <el-button type="danger">商家登录</el-button>
                   </router-link>
                 </li>

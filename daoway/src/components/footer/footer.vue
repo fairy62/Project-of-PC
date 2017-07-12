@@ -71,6 +71,7 @@
       font-size 28px
       font-family "微软雅黑"
       font-weight:800
+      margin-bottom: 10px;
       i
         font-weight:800
         color: #fb474f

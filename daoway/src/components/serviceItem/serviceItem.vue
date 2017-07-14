@@ -2,12 +2,12 @@
   <div>
     <d-header></d-header>
     <div class="service-wrapper">
-      <div class="service-item">
+      <div class="service-item" v-for="serviceItem in serviceItems" v-if="serviceItem.id==$route.params.whichitem">
         <div class="firstline">
           <div class="allitem">
             所有分类
             <i class="bright">&gt;</i>
-            <i class="item-name">家庭保洁</i>
+            <i class="item-name"><router-link :to="`/item/${serviceItem.id}`">{{serviceItem.name}}</router-link></i>
             <i class="bright">&gt;</i>
           </div>
         </div>
@@ -15,13 +15,8 @@
           <div class="itemlist">
             <span class="fist">分类</span>
             <div>
-              <span class="clickAble red">全部</span>
-              <span class="clickAble ">小时工</span>
-              <span class="clickAble ">开荒保洁</span>
-              <span class="clickAble ">擦玻璃</span>
-              <span class="clickAble ">深度保洁</span>
-              <span class="clickAble ">家居养护</span>
-              <span class="clickAble ">杀虫灭鼠</span>
+              <span class="clickAble red"><a href="#">全部</a></span>
+              <span class="clickAble" v-for="every in serviceItem.has">{{every}}</span>
             </div>
           </div>
         </div>
@@ -45,131 +40,21 @@
             </span>
               <span class="spanright">
               <i class="count">1</i>/
-              <i class="pages">55</i>
+              <i class="pages">1</i>
               <i class="pageup firstpage">上一页</i>
               <i class="pagedown">下一页</i>
             </span>
             </h3>
-            <div class="boxtab">
-              <router-link to="detail">
+            <div class="boxtab" v-for="(serve, index) in serviceItem.server" :key="index">
+              <router-link to="/item/baojie">
                 <div class="ctop">
-                  <img src="./1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg" class="pic">
+                  <img :src="serve.img" class="pic">
                   <span class="spm spm2">
-                <p class="service-name">家庭保洁</p>
-                <p class="service-content">服务内容：家庭保洁服务，2小时起订。（云家政暂时不提供带保...</p>
+                <p class="service-name">{{serve.name}}</p>
+                <p class="service-content">服务内容：{{serve.content}}</p>
                 <p class="service-pay">
-                  <span class="cost">30<i>元/小时</i></span>
-                  <b class="oldpic"><i>50元</i></b>
-                </p>
-                <p class="navtxt">
-                  <b><img src="./home1.png">云家政</b>
-                  <b>已售<span>34898</span></b>
-                  <b>好评<span>86%</span></b>
-                </p>
-              </span>
-                  <span class="spf">
-                <i class="godoor">最快上门</i>
-                <i>2小时</i>
-              </span>
-                </div>
-              </router-link>
-              <router-link to="detail">
-                <div class="ctop">
-                  <img src="./1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg" class="pic">
-                  <span class="spm spm2">
-                <p class="service-name">家庭保洁</p>
-                <p class="service-content">服务内容：家庭保洁服务，2小时起订。（云家政暂时不提供带保...</p>
-                <p class="service-pay">
-                  <span class="cost">30<i>元/小时</i></span>
-                  <b class="oldpic"><i>50元</i></b>
-                </p>
-                <p class="navtxt">
-                  <b><img src="./home1.png">云家政</b>
-                  <b>已售<span>34898</span></b>
-                  <b>好评<span>86%</span></b>
-                </p>
-              </span>
-                  <span class="spf">
-                <i class="godoor">最快上门</i>
-                <i>2小时</i>
-              </span>
-                </div>
-              </router-link>
-              <router-link to="detail">
-                <div class="ctop">
-                  <img src="./1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg" class="pic">
-                  <span class="spm spm2">
-                <p class="service-name">家庭保洁</p>
-                <p class="service-content">服务内容：家庭保洁服务，2小时起订。（云家政暂时不提供带保...</p>
-                <p class="service-pay">
-                  <span class="cost">30<i>元/小时</i></span>
-                  <b class="oldpic"><i>50元</i></b>
-                </p>
-                <p class="navtxt">
-                  <b><img src="./home1.png">云家政</b>
-                  <b>已售<span>34898</span></b>
-                  <b>好评<span>86%</span></b>
-                </p>
-              </span>
-                  <span class="spf">
-                <i class="godoor">最快上门</i>
-                <i>2小时</i>
-              </span>
-                </div>
-              </router-link>
-              <router-link to="detail">
-                <div class="ctop">
-                  <img src="./1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg" class="pic">
-                  <span class="spm spm2">
-                <p class="service-name">家庭保洁</p>
-                <p class="service-content">服务内容：家庭保洁服务，2小时起订。（云家政暂时不提供带保...</p>
-                <p class="service-pay">
-                  <span class="cost">30<i>元/小时</i></span>
-                  <b class="oldpic"><i>50元</i></b>
-                </p>
-                <p class="navtxt">
-                  <b><img src="./home1.png">云家政</b>
-                  <b>已售<span>34898</span></b>
-                  <b>好评<span>86%</span></b>
-                </p>
-              </span>
-                  <span class="spf">
-                <i class="godoor">最快上门</i>
-                <i>2小时</i>
-              </span>
-                </div>
-              </router-link>
-              <router-link to="detail">
-                <div class="ctop">
-                  <img src="./1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg" class="pic">
-                  <span class="spm spm2">
-                <p class="service-name">家庭保洁</p>
-                <p class="service-content">服务内容：家庭保洁服务，2小时起订。（云家政暂时不提供带保...</p>
-                <p class="service-pay">
-                  <span class="cost">30<i>元/小时</i></span>
-                  <b class="oldpic"><i>50元</i></b>
-                </p>
-                <p class="navtxt">
-                  <b><img src="./home1.png">云家政</b>
-                  <b>已售<span>34898</span></b>
-                  <b>好评<span>86%</span></b>
-                </p>
-              </span>
-                  <span class="spf">
-                <i class="godoor">最快上门</i>
-                <i>2小时</i>
-              </span>
-                </div>
-              </router-link>
-              <router-link to="detail">
-                <div class="ctop">
-                  <img src="./1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg" class="pic">
-                  <span class="spm spm2">
-                <p class="service-name">家庭保洁</p>
-                <p class="service-content">服务内容：家庭保洁服务，2小时起订。（云家政暂时不提供带保...</p>
-                <p class="service-pay">
-                  <span class="cost">30<i>元/小时</i></span>
-                  <b class="oldpic"><i>50元</i></b>
+                  <span class="cost">{{serve.price}}<i>元/小时</i></span>
+                  <b class="oldpic"><i>{{serve.oldPrice}}元</i></b>
                 </p>
                 <p class="navtxt">
                   <b><img src="./home1.png">云家政</b>
@@ -195,7 +80,7 @@
                 <a href="##">6</a>
                 <a href="##">7</a>
                 <a href="##">8</a>
-                <a href="##">9</a>
+                <a href="##">9</a>...
               </div>
               <a  class="pagedown" href="##">&gt;下一页</a>
             </div>
@@ -240,13 +125,21 @@
     </div>
     <d-footer></d-footer>
   </div>
-
 </template>
 
 <script>
   import header from '../header/header.vue'
   import footer from '../footer/footer.vue'
   export default {
+    props: ['serviceItems'],
+    data () {
+      return {
+
+      }
+    },
+    created () {
+
+    },
     components: {
       'd-header': header,
       'd-footer': footer

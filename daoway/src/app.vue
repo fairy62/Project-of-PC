@@ -1,20 +1,28 @@
 <template>
   <div id="daoway">
-    <router-view></router-view>
+    <router-view :serviceItems="serviceItems"></router-view>
   </div>
 </template>
 
 <script>
   import axios from 'axios'
   export default {
+    data () {
+      return {
+        // 装着所有服务项目的数组，服务项目为一个一个的对象
+        serviceItems: [],
+      }
+    },
     created () {
-      axios.get('/api/item/anmo')
+      axios.get('/daoway/all')
         .then(response => {
           const data = response.data
-          const baojie = data.data
-          console.log(baojie)
+          // console.log(data)
+          this.serviceItems = data.data
+          // console.log(this.serviceItems)
         })
     }
+
   }
 </script>
 

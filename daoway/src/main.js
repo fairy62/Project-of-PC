@@ -1,8 +1,9 @@
 import Vue from 'vue'
 import app from './app.vue'
 import router from './router'
-import './common/stylus/fonts.styl'
 import ElementUI from 'element-ui'
+import './mock/mockServer'
+import './common/stylus/fonts.styl'
 
 Vue.use(ElementUI)
 

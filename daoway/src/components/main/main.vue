@@ -166,7 +166,7 @@
         </div>
       </div>
     </div>
-    <main-list></main-list>
+    <main-list :serviceItems="serviceItems"></main-list>
     <d-footer></d-footer>
   </div>
 </template>
@@ -177,6 +177,7 @@
   import footer from '../footer/footer.vue'
 
   export default {
+    props: ['serviceItems'],
     components: {
       'd-header': header,
       'main-list': mainList,
@@ -186,11 +187,15 @@
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">
+  *
+    margin:0
+    padding:0
   .carousel
     height: 420px
     margin-bottom: 0
     box-sizing: border-box
     .flicker-example
+      width:100%
       .full_banner
         width: 100%;
         position: relative;

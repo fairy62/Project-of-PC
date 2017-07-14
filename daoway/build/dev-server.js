@@ -24,25 +24,23 @@ var app = express()
 
 /* start mock data */
 const data = require('../src/mock/data.json')
-const baojie = data.baojie
-const anmo = data.anmo
-const weixiu = data.weixiu
+const serviceItem = data.serviceItems
 // 路由器
 const router = express.Router()
 // 注册路由
 router.get('/item/baojie',function (req, res) {
   res.send({
-    data: baojie
+    data: serviceItem[0]
   })
 })
 router.get('/item/anmo',function (req, res) {
   res.send({
-    data: anmo
+    data: serviceItem[1]
   })
 })
 router.get('/item/weixiu',function (req, res) {
   res.send({
-    data: weixiu
+    data: serviceItem[2]
   })
 })
 // 启动路由器

@@ -16,7 +16,7 @@
             </div>
             <div class="row">
               <!-- 遍历生成每个小服务列表，数量为五个 -->
-              <router-link class="form-group shopList" to="detail" v-if='index<5' v-for="(serve, index) in serviceItem.server" :key="index">
+              <router-link class="form-group shopList" :to="`detail/${serviceItem.id}/${serve.id}`" v-if='index<5' v-for="(serve, index) in serviceItem.server" :key="index">
                 <div class="ServiceBorder1">
                   <img :src="serve.img" class="serviceImg" width="210px" height="210px">
                   <div class="serviceName">{{serve.name}}</div>
@@ -40,6 +40,9 @@
   import axios from 'axios'
   export default {
     props: ['serviceItems'],
+    data () {
+
+    },
     methods: {
 
     }
@@ -109,15 +112,15 @@
                   .description
                     color: #929292;
                     padding: 6px 0;
-                    overflow: hidden;
+                    word-break: break-all;
+                    font-size: 13px;
+                    line-height: 20px;
+                    height: 50px;
+                    overflow : hidden;
                     text-overflow: ellipsis;
                     display: -webkit-box;
                     -webkit-line-clamp: 2;
                     -webkit-box-orient: vertical;
-                    word-break: break-all;
-                    font-size: 13px;
-                    line-height: 21px;
-                    height: 53px;
                   .price
                     font-size: 14px;
                     padding: 5px 5px;

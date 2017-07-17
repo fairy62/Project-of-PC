@@ -6,9 +6,9 @@
     </div>
     <div class="servi">
       <ul>
-        <li><img src="../../img/main/quan.png" width="44" height="44"><br>服务多</li>
-        <li><img src="../../img/main/quan.png" width="44" height="44"><br>上门快</li>
-        <li><img src="../../img/main/quan.png" width="44" height="44"><br>有保障</li>
+        <li><img src="../../img/main/quan.png" width="44" height="44"><br><br>服务多</li>
+        <li><img src="../../img/main/quan.png" width="44" height="44"><br><br>上门快</li>
+        <li><img src="../../img/main/quan.png" width="44" height="44"><br><br>有保障</li>
       </ul>
     </div>
     <div class="footer">

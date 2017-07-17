@@ -46,22 +46,22 @@
             </span>
             </h3>
             <div class="boxtab" v-for="(serve, index) in serviceItem.server" :key="index">
-              <router-link to="/item/baojie">
-                <div class="ctop">
+              <router-link :to="`/detail/${serviceItem.id}/${serve.id}`" >
+                <div class="ctop" @click="getServeItem">
                   <img :src="serve.img" class="pic">
                   <span class="spm spm2">
-                <p class="service-name">{{serve.name}}</p>
-                <p class="service-content">服务内容：{{serve.content}}</p>
-                <p class="service-pay">
-                  <span class="cost">{{serve.price}}<i>元/小时</i></span>
-                  <b class="oldpic"><i>{{serve.oldPrice}}元</i></b>
-                </p>
-                <p class="navtxt">
-                  <b><img src="./home1.png">云家政</b>
-                  <b>已售<span>34898</span></b>
-                  <b>好评<span>86%</span></b>
-                </p>
-              </span>
+                    <p class="service-name">{{serve.name}}</p>
+                    <p class="service-content">服务内容：{{serve.content}}</p>
+                    <p class="service-pay">
+                    <span class="cost">{{serve.price}}<i>元/小时</i></span>
+                    <b class="oldpic" v-show="serve.oldPrice"><i>{{serve.oldPrice}}元</i></b>
+                    </p>
+                    <p class="navtxt">
+                      <b><img src="./home1.png">{{serve.provider}}</b>
+                      <b>已售<span>{{serve.already}}</span></b>
+                      <b>好评<span>{{serve.praise}}%</span></b>
+                    </p>
+                  </span>
                   <span class="spf">
                 <i class="godoor">最快上门</i>
                 <i>2小时</i>
@@ -80,43 +80,20 @@
                 <a href="##">6</a>
                 <a href="##">7</a>
                 <a href="##">8</a>
-                <a href="##">9</a>...
+                <a href="##">9</a>
+                &nbsp;&nbsp;...
               </div>
-              <a  class="pagedown" href="##">&gt;下一页</a>
+              <a  class="pagedown" href="##">下一页&gt;</a>
             </div>
           </div>
           <div class="item-right">
             <h3>服务商</h3>
-            <div class="rightlist">
-              <img src="./1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg">
-              <p class="service-title">云家政</p>
+            <div class="rightlist" v-for="prove in provider">
+              <img :src="prove.providerImg">
+              <p class="service-title">{{prove.name}}</p>
               <p class="service-receive">
-                <span class="hasreceive">已成功接单26934</span>
-                <span class="goodjob">好评86%</span>
-              </p>
-            </div>
-            <div class="rightlist">
-              <img src="./1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg">
-              <p class="service-title">云家政</p>
-              <p class="service-receive">
-                <span class="hasreceive">已成功接单26934</span>
-                <span class="goodjob">好评86%</span>
-              </p>
-            </div>
-            <div class="rightlist">
-              <img src="./1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg">
-              <p class="service-title">云家政</p>
-              <p class="service-receive">
-                <span class="hasreceive">已成功接单26934</span>
-                <span class="goodjob">好评86%</span>
-              </p>
-            </div>
-            <div class="rightlist">
-              <img src="./1dcdbeb4-6605-4d35-af87-1b76f7beb6df_thumb.jpg">
-              <p class="service-title">云家政</p>
-              <p class="service-receive">
-                <span class="hasreceive">已成功接单26934</span>
-                <span class="goodjob">好评86%</span>
+                <span class="hasreceive">已成功接单{{prove.receive}}</span>
+                <span class="goodjob">好评{{prove.goodjob}}%</span>
               </p>
             </div>
           </div>
@@ -131,14 +108,25 @@
   import header from '../header/header.vue'
   import footer from '../footer/footer.vue'
   export default {
-    props: ['serviceItems'],
+    props: ['serviceItems', 'provider'],
     data () {
       return {
-
+        serviceItem: {}
       }
     },
     created () {
-
+      /*setTimeout(() => {
+        console.log("created"+this.provider)
+      },1000)*/
+    },
+    mounted () {
+      // console.log("mounted"+this.provider)
+    },
+    methods: {
+      getServeItem () {
+        // console.log("get"+this.serviceItems)
+        // this.serviceItem = {}
+      }
     },
     components: {
       'd-header': header,
@@ -263,6 +251,10 @@
               color: #1d1515
             .service-content
               color: #929292
+              width: 400px
+              overflow hidden
+              white-space nowrap
+              text-overflow ellipsis
             .service-pay
               font-size: 20px;
               color: #fc545e

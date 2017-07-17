@@ -1,6 +1,9 @@
 <template>
   <div id="daoway">
-    <router-view :serviceItems="serviceItems"></router-view>
+    <keep-alive>
+      <router-view :serviceItems="serviceItems" :provider="provider"></router-view>
+    </keep-alive>
+
   </div>
 </template>
 
@@ -11,6 +14,7 @@
       return {
         // 装着所有服务项目的数组，服务项目为一个一个的对象
         serviceItems: [],
+        provider: []
       }
     },
     created () {
@@ -19,6 +23,13 @@
           const data = response.data
           // console.log(data)
           this.serviceItems = data.data
+          // console.log(this.serviceItems)
+        })
+      axios.get('/daoway/pro')
+        .then(response => {
+          const data = response.data
+          // console.log(data)
+          this.provider = data.data
           // console.log(this.serviceItems)
         })
     }

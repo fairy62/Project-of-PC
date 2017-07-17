@@ -5,7 +5,11 @@ Mock.mock('/daoway/all', {
   data: data.serviceItems
 })
 
-Mock.mock('/daoway/item/baojie', {
+Mock.mock('/daoway/pro', {
+  data: data.provider
+})
+
+/*Mock.mock('/daoway/item/baojie', {
   data: data.serviceItems[0]
 })
 Mock.mock('/daoway/item/anmo', {
@@ -13,7 +17,7 @@ Mock.mock('/daoway/item/anmo', {
 })
 Mock.mock('/daoway/item/weixiu', {
   data: data.serviceItems[2]
-})
+})*/
 
 
 

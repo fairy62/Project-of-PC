@@ -2,18 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="07e05780-cc0d-4bc1-9636-b64c97aeea97" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/components/serviceDetail/details.vue" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoway/src/mock/mockServer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/build/dev-server.js" afterPath="$PROJECT_DIR$/daoway/build/dev-server.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/package.json" afterPath="$PROJECT_DIR$/daoway/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/app.vue" afterPath="$PROJECT_DIR$/daoway/src/app.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/components/footer/footer.vue" afterPath="$PROJECT_DIR$/daoway/src/components/footer/footer.vue" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/components/header/header.vue" afterPath="$PROJECT_DIR$/daoway/src/components/header/header.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/components/main/main.vue" afterPath="$PROJECT_DIR$/daoway/src/components/main/main.vue" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue" afterPath="$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/components/serviceDetail/serviceDetail.vue" afterPath="$PROJECT_DIR$/daoway/src/components/serviceDetail/serviceDetail.vue" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/components/serviceItem/serviceItem.vue" afterPath="$PROJECT_DIR$/daoway/src/components/serviceItem/serviceItem.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/main.js" afterPath="$PROJECT_DIR$/daoway/src/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/mock/data.json" afterPath="$PROJECT_DIR$/daoway/src/mock/data.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/mock/mockServer.js" afterPath="$PROJECT_DIR$/daoway/src/mock/mockServer.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/daoway/src/router/index.js" afterPath="$PROJECT_DIR$/daoway/src/router/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -32,31 +29,9 @@
       <file leaf-file-name="app.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daoway/src/app.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="33">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="83" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="details.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceDetail/details.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mockServer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daoway/src/mock/mockServer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -64,89 +39,49 @@
       <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daoway/src/mock/data.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="165">
+              <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="19" />
               <folding>
-                <element signature="e#3858#5352#0" expanded="false" />
-                <element signature="e#5362#6506#0" expanded="false" />
-                <element signature="e#7682#13916#0" expanded="false" />
-                <element signature="e#7811#9202#0" expanded="false" />
-                <element signature="e#9212#10354#0" expanded="false" />
-                <element signature="e#10364#11486#0" expanded="false" />
-                <element signature="e#11496#12759#0" expanded="false" />
-                <element signature="e#12769#13902#0" expanded="false" />
-                <element signature="e#13922#19733#0" expanded="false" />
-                <element signature="e#14066#15517#0" expanded="false" />
-                <marker date="1499935228030" expanded="false" signature="1432:2609" ph="{&quot;id&quot;: 2...}" />
-                <marker date="1499935228030" expanded="false" signature="2619:3848" ph="{&quot;id&quot;: 3...}" />
-                <marker date="1499935228030" expanded="false" signature="6516:7662" ph="{&quot;id&quot;: 6...}" />
-                <marker date="1499935228030" expanded="false" signature="15527:16830" ph="{&quot;id&quot;: 2...}" />
-                <marker date="1499935228030" expanded="false" signature="16840:17759" ph="{&quot;id&quot;: 3...}" />
-                <marker date="1499935228030" expanded="false" signature="17769:18744" ph="{&quot;id&quot;: 4...}" />
-                <marker date="1499935228030" expanded="false" signature="18754:19719" ph="{&quot;id&quot;: 5...}" />
+                <element signature="e#1611#2932#0" expanded="false" />
+                <element signature="e#2942#4307#0" expanded="false" />
+                <element signature="e#4317#5923#0" expanded="false" />
+                <element signature="e#5933#7187#0" expanded="false" />
+                <element signature="e#8493#9879#0" expanded="false" />
+                <element signature="e#9889#11060#0" expanded="false" />
+                <element signature="e#20698#21416#0" expanded="false" />
+                <element signature="e#20704#20868#0" expanded="false" />
+                <element signature="e#20874#21050#0" expanded="false" />
+                <element signature="e#21056#21230#0" expanded="false" />
+                <element signature="e#21236#21412#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daoway/src/components/main/main.vue">
+      <file leaf-file-name="serviceItem.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceItem/serviceItem.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="197" column="16" lean-forward="false" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
-              <folding>
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#li#1;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#li#3;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#li#3;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#li#4;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#li#4;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#li#5;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#li#5;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#li#6;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#li#6;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#li#7;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#li#7;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#li#8;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#li#8;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#li#9;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#li#9;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="e#7369#7416#0" expanded="true" />
-                <element signature="e#9558#9697#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mainList.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-              <folding>
-                <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="e#2440#2543#0" expanded="false" />
-                <element signature="e#3108#3423#0" expanded="false" />
-                <element signature="e#3943#4552#0" expanded="false" />
-                <element signature="e#4192#4552#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daoway/src/components/header/header.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-164">
-              <caret line="60" column="11" lean-forward="false" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+            <state relative-caret-position="231">
+              <caret line="70" column="18" lean-forward="true" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="e#2615#3768#0" expanded="false" />
+                <element signature="n#h3#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#span#0;n#div#0;n#router-link#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#span#1;n#div#0;n#router-link#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#3252#3258#0" expanded="true" />
+                <element signature="e#3258#3264#0" expanded="true" />
+                <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#3939#3980#0" expanded="true" />
+                <element signature="e#4714#4857#0" expanded="false" />
+                <element signature="e#4876#5371#0" expanded="false" />
+                <element signature="e#5515#6490#0" expanded="false" />
+                <element signature="e#5744#6012#0" expanded="false" />
+                <element signature="e#6042#6490#0" expanded="false" />
+                <element signature="e#6976#7098#0" expanded="false" />
+                <element signature="e#7409#7670#0" expanded="false" />
+                <element signature="e#7705#7916#0" expanded="false" />
+                <element signature="e#7944#8365#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -155,55 +90,40 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/daoway/src/router/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="28" />
-              <folding>
-                <element signature="e#10#31#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="serviceItem.vue" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceItem/serviceItem.vue">
+      <file leaf-file-name="serviceDetail.vue" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceDetail/serviceDetail.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="56" column="55" lean-forward="false" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
+            <state relative-caret-position="297">
+              <caret line="85" column="40" lean-forward="true" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#h3#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#div#2;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="n#div#3;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-                <element signature="e#4760#4801#0" expanded="true" />
-                <element signature="n#style#0;n#!!top" expanded="false" />
-                <element signature="e#5208#5351#0" expanded="false" />
-                <element signature="e#5370#5865#0" expanded="false" />
-                <element signature="e#5936#9676#0" expanded="false" />
-                <element signature="e#6009#6984#0" expanded="false" />
-                <element signature="e#6238#6506#0" expanded="false" />
-                <element signature="e#6536#6984#0" expanded="false" />
-                <element signature="e#7007#8787#0" expanded="false" />
-                <element signature="e#7023#8732#0" expanded="false" />
-                <element signature="e#7402#8283#0" expanded="false" />
-                <element signature="e#7470#7592#0" expanded="false" />
-                <element signature="e#7776#8037#0" expanded="false" />
-                <element signature="e#8072#8283#0" expanded="false" />
-                <element signature="e#8311#8732#0" expanded="false" />
+                <element signature="n#style#0;n#p#4;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="e#2351#2406#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dev-server.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/daoway/build/dev-server.js">
+      <file leaf-file-name="mainList.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1386">
-              <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="90">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#2495#2598#0" expanded="false" />
+                <element signature="e#3163#3478#0" expanded="false" />
+                <element signature="e#3999#4608#0" expanded="false" />
+                <element signature="e#4248#4608#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -230,8 +150,30 @@
       <find>z-index</find>
       <find>serviceType</find>
       <find>description</find>
+      <find>service-content</find>
+      <find>center_left</find>
+      <find>center_right</find>
+      <find>ctop</find>
+      <find>pic</find>
+      <find>price</find>
+      <find>id</find>
+      <find>detail_price</find>
+      <find>detail_ctop</find>
       <find>fixedTtop</find>
+      <find>detail_pic</find>
+      <find>serviceText</find>
+      <find>right-content</find>
+      <find>typeName</find>
+      <find>server</find>
+      <find>uccess</find>
+      <find>。</find>
+      <find>{{</find>
+      <find>*</find>
     </findStrings>
+    <replaceStrings>
+      <replace>。*</replace>
+      <replace>&lt;br&gt;</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -251,19 +193,19 @@
         <option value="$PROJECT_DIR$/daoway/index.html" />
         <option value="$PROJECT_DIR$/daoway/src/components/login/login.vue" />
         <option value="$PROJECT_DIR$/daoway/src/components/register/register.vue" />
-        <option value="$PROJECT_DIR$/daoway/src/components/footer/footer.vue" />
-        <option value="$PROJECT_DIR$/daoway/src/components/serviceDetail/serviceDetail.vue" />
         <option value="$PROJECT_DIR$/daoway/src/components/facilitator/facilitator.vue" />
         <option value="$PROJECT_DIR$/daoway/build/dev-server.js" />
         <option value="$PROJECT_DIR$/daoway/src/main.js" />
+        <option value="$PROJECT_DIR$/daoway/src/components/main/main.vue" />
         <option value="$PROJECT_DIR$/daoway/src/mock/mockServer.js" />
+        <option value="$PROJECT_DIR$/daoway/src/components/footer/footer.vue" />
+        <option value="$PROJECT_DIR$/daoway/src/components/header/header.vue" />
+        <option value="$PROJECT_DIR$/daoway/src/router/index.js" />
         <option value="$PROJECT_DIR$/daoway/src/app.vue" />
         <option value="$PROJECT_DIR$/daoway/src/mock/data.json" />
-        <option value="$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue" />
-        <option value="$PROJECT_DIR$/daoway/src/components/main/main.vue" />
-        <option value="$PROJECT_DIR$/daoway/src/router/index.js" />
-        <option value="$PROJECT_DIR$/daoway/src/components/header/header.vue" />
         <option value="$PROJECT_DIR$/daoway/src/components/serviceItem/serviceItem.vue" />
+        <option value="$PROJECT_DIR$/daoway/src/components/serviceDetail/serviceDetail.vue" />
+        <option value="$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue" />
       </list>
     </option>
   </component>
@@ -305,6 +247,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -407,77 +350,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mock" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daoway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daoway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daoway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="serviceItem" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -507,57 +380,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daoway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="header" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="project PC" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="daoway" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -568,7 +392,7 @@
     <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="serviceItem&#9;FILE&#9;file://C:/Users/Administrator/Desktop/practice of vue/project PC/daoway/src/components/serviceItem/serviceItem.vue&#10;main&#9;FILE&#9;file://C:/Users/Administrator/Desktop/practice of vue/project PC/daoway/src/main.js" />
+    <property name="SearchEverywhereHistoryKey" value="main&#9;FILE&#9;file://C:/Users/Administrator/Desktop/practice of vue/project PC/daoway/src/components/mainList/mainList.vue&#10;de&#9;FILE&#9;file://C:/Users/Administrator/Desktop/practice of vue/project PC/daoway/src/components/serviceDetail/serviceDetail.vue&#10;footer&#9;FILE&#9;file://C:/Users/Administrator/Desktop/practice of vue/project PC/daoway/src/components/footer/footer.vue&#10;serviceItem&#9;FILE&#9;file://C:/Users/Administrator/Desktop/practice of vue/project PC/daoway/src/components/serviceItem/serviceItem.vue" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -675,23 +499,27 @@
       <workItem from="1499647674411" duration="38783000" />
       <workItem from="1499733503228" duration="41198000" />
       <workItem from="1499819397813" duration="37678000" />
-      <workItem from="1499906346605" duration="25775000" />
+      <workItem from="1499906346605" duration="38527000" />
+      <workItem from="1500019552526" duration="3317000" />
+      <workItem from="1500181856323" duration="20239000" />
+      <workItem from="1500254959449" duration="2336000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143434000" />
+    <option name="totallyTimeSpent" value="182078000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14508928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16815476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28150573" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22913256" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536825" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -752,36 +580,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/daoway/build/dev-server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daoway/src/mock/data.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="13" />
           <folding>
-            <element signature="e#3858#5352#0" expanded="false" />
-            <element signature="e#5362#6506#0" expanded="false" />
-            <element signature="e#7682#13916#0" expanded="false" />
-            <element signature="e#7811#9202#0" expanded="false" />
-            <element signature="e#9212#10354#0" expanded="false" />
-            <element signature="e#10364#11486#0" expanded="false" />
-            <element signature="e#11496#12759#0" expanded="false" />
-            <element signature="e#12769#13902#0" expanded="false" />
-            <element signature="e#13922#19733#0" expanded="false" />
-            <element signature="e#14066#15517#0" expanded="false" />
-            <marker date="1499935228030" expanded="false" signature="1432:2609" ph="{&quot;id&quot;: 2...}" />
-            <marker date="1499935228030" expanded="false" signature="2619:3848" ph="{&quot;id&quot;: 3...}" />
-            <marker date="1499935228030" expanded="false" signature="6516:7662" ph="{&quot;id&quot;: 6...}" />
-            <marker date="1499935228030" expanded="false" signature="15527:16830" ph="{&quot;id&quot;: 2...}" />
-            <marker date="1499935228030" expanded="false" signature="16840:17759" ph="{&quot;id&quot;: 3...}" />
-            <marker date="1499935228030" expanded="false" signature="17769:18744" ph="{&quot;id&quot;: 4...}" />
-            <marker date="1499935228030" expanded="false" signature="18754:19719" ph="{&quot;id&quot;: 5...}" />
+            <element signature="e#1611#2932#0" expanded="false" />
+            <element signature="e#2942#4307#0" expanded="false" />
+            <element signature="e#4317#5923#0" expanded="false" />
+            <element signature="e#5933#7187#0" expanded="false" />
+            <element signature="e#8493#9879#0" expanded="false" />
+            <element signature="e#9889#11060#0" expanded="false" />
+            <element signature="e#20698#21416#0" expanded="false" />
+            <element signature="e#20704#20868#0" expanded="false" />
+            <element signature="e#20874#21050#0" expanded="false" />
+            <element signature="e#21056#21230#0" expanded="false" />
+            <element signature="e#21236#21412#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -798,7 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -807,11 +620,9 @@
         <state relative-caret-position="66">
           <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
           <folding>
-            <element signature="n#style#0;n#div#3;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="e#3443#3498#0" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#4;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#2351#2406#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -821,24 +632,24 @@
         <state relative-caret-position="4851">
           <caret line="147" column="28" lean-forward="false" selection-start-line="147" selection-start-column="28" selection-end-line="147" selection-end-column="28" />
           <folding>
-            <element signature="e#306#310#1" expanded="false" />
-            <element signature="e#462#466#1" expanded="false" />
-            <element signature="e#2697#2701#0" expanded="false" />
-            <element signature="e#3145#3149#0" expanded="false" />
-            <element signature="e#4760#4801#0" expanded="true" />
-            <element signature="e#5208#5351#0" expanded="false" />
-            <element signature="e#5370#5865#0" expanded="false" />
-            <element signature="e#5936#9676#0" expanded="false" />
-            <element signature="e#6009#6984#0" expanded="false" />
-            <element signature="e#6238#6506#0" expanded="false" />
-            <element signature="e#6536#6984#0" expanded="false" />
-            <element signature="e#7007#8787#0" expanded="false" />
-            <element signature="e#7023#8732#0" expanded="false" />
-            <element signature="e#7402#8283#0" expanded="false" />
-            <element signature="e#7470#7592#0" expanded="false" />
-            <element signature="e#7776#8037#0" expanded="false" />
-            <element signature="e#8072#8283#0" expanded="false" />
-            <element signature="e#8311#8732#0" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#h3#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#span#0;n#div#0;n#router-link#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#span#1;n#div#0;n#router-link#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#3252#3258#0" expanded="true" />
+            <element signature="e#3258#3264#0" expanded="true" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#3939#3980#0" expanded="true" />
+            <element signature="e#4714#4857#0" expanded="false" />
+            <element signature="e#4876#5371#0" expanded="false" />
+            <element signature="e#5515#6490#0" expanded="false" />
+            <element signature="e#5744#6012#0" expanded="false" />
+            <element signature="e#6042#6490#0" expanded="false" />
+            <element signature="e#6976#7098#0" expanded="false" />
+            <element signature="e#7409#7670#0" expanded="false" />
+            <element signature="e#7705#7916#0" expanded="false" />
+            <element signature="e#7944#8365#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -871,13 +682,12 @@
         <state relative-caret-position="33">
           <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
           <folding>
-            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
             <element signature="n#dd#0;n#dl#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="e#1232#1238#0" expanded="false" />
-            <element signature="e#1624#1662#0" expanded="false" />
-            <element signature="e#1746#1971#0" expanded="false" />
-            <element signature="e#1986#2476#0" expanded="false" />
+            <element signature="n#style#0;n#!!top" expanded="false" />
+            <element signature="e#1636#1674#0" expanded="false" />
+            <element signature="e#1758#1983#0" expanded="false" />
+            <element signature="e#1998#2488#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -886,9 +696,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="e#10#31#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -905,11 +713,9 @@
         <state relative-caret-position="33">
           <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
           <folding>
-            <element signature="n#style#0;n#div#3;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="e#3443#3498#0" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#4;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#2351#2406#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -958,7 +764,7 @@
             <element signature="n#ul#0;n#li#8;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
             <element signature="n#li#9;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
             <element signature="n#ul#0;n#li#9;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="e#7369#7416#0" expanded="true" />
+            <element signature="e#7369#7416#0" expanded="false" />
             <element signature="e#9558#9697#0" expanded="false" />
           </folding>
         </state>
@@ -968,9 +774,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <element signature="e#10#31#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -979,11 +783,12 @@
         <state relative-caret-position="396">
           <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding>
-            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#2440#2543#0" expanded="false" />
-            <element signature="e#3108#3423#0" expanded="false" />
-            <element signature="e#3943#4552#0" expanded="false" />
-            <element signature="e#4192#4552#0" expanded="false" />
+            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#!!top" expanded="false" />
+            <element signature="e#2495#2598#0" expanded="false" />
+            <element signature="e#3163#3478#0" expanded="false" />
+            <element signature="e#3999#4608#0" expanded="false" />
+            <element signature="e#4248#4608#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1087,36 +892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/components/footer/footer.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="64" column="51" lean-forward="false" selection-start-line="64" selection-start-column="51" selection-end-line="64" selection-end-column="51" />
-          <folding>
-            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#dd#0;n#dl#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="e#1232#1238#0" expanded="false" />
-            <element signature="e#1624#1662#0" expanded="false" />
-            <element signature="e#1746#1971#0" expanded="false" />
-            <element signature="e#1986#2476#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceDetail/serviceDetail.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="119" column="24" lean-forward="false" selection-start-line="119" selection-start-column="24" selection-end-line="119" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#div#3;n#span#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#p#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="e#3443#3498#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/daoway/src/components/facilitator/facilitator.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -1151,14 +926,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/build/dev-server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../vue from git/170225_ele/src/mock/mockServer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1170,39 +937,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceDetail/details.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/app.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daoway/src/mock/mockServer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="7" column="30" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="627">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/build/dev-server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="42" column="23" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daoway/src/components/main/main.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
+        <state relative-caret-position="1881">
           <caret line="197" column="16" lean-forward="false" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
           <folding>
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
@@ -1225,102 +979,138 @@
             <element signature="n#ul#0;n#li#8;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
             <element signature="n#li#9;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
             <element signature="n#ul#0;n#li#9;n#ul#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="e#7369#7416#0" expanded="true" />
+            <element signature="e#7369#7416#0" expanded="false" />
             <element signature="e#9558#9697#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceDetail/details.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-297">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/daoway/src/components/header/header.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-164">
-          <caret line="60" column="11" lean-forward="false" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
+        <state relative-caret-position="3696">
+          <caret line="158" column="39" lean-forward="false" selection-start-line="158" selection-start-column="39" selection-end-line="158" selection-end-column="39" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
             <element signature="e#2615#3768#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/router/index.js">
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/footer/footer.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="28" />
+        <state relative-caret-position="236">
+          <caret line="10" column="78" lean-forward="false" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
           <folding>
-            <element signature="e#10#31#0" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#dd#0;n#dl#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#!!top" expanded="false" />
+            <element signature="e#1636#1674#0" expanded="false" />
+            <element signature="e#1758#1983#0" expanded="false" />
+            <element signature="e#1998#2488#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue">
+    <entry file="file://$PROJECT_DIR$/../../mock/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="399">
+          <caret line="678" column="21" lean-forward="true" selection-start-line="678" selection-start-column="21" selection-end-line="678" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/app.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceItem/serviceItem.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="70" column="18" lean-forward="true" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
           <folding>
-            <element signature="n#style#0;n#router-link#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="e#2440#2543#0" expanded="false" />
-            <element signature="e#3108#3423#0" expanded="false" />
-            <element signature="e#3943#4552#0" expanded="false" />
-            <element signature="e#4192#4552#0" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#h3#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#span#0;n#div#0;n#router-link#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#span#1;n#div#0;n#router-link#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#3252#3258#0" expanded="true" />
+            <element signature="e#3258#3264#0" expanded="true" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#3939#3980#0" expanded="true" />
+            <element signature="e#4714#4857#0" expanded="false" />
+            <element signature="e#4876#5371#0" expanded="false" />
+            <element signature="e#5515#6490#0" expanded="false" />
+            <element signature="e#5744#6012#0" expanded="false" />
+            <element signature="e#6042#6490#0" expanded="false" />
+            <element signature="e#6976#7098#0" expanded="false" />
+            <element signature="e#7409#7670#0" expanded="false" />
+            <element signature="e#7705#7916#0" expanded="false" />
+            <element signature="e#7944#8365#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/daoway/src/mock/data.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="165">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="19" />
           <folding>
-            <element signature="e#3858#5352#0" expanded="false" />
-            <element signature="e#5362#6506#0" expanded="false" />
-            <element signature="e#7682#13916#0" expanded="false" />
-            <element signature="e#7811#9202#0" expanded="false" />
-            <element signature="e#9212#10354#0" expanded="false" />
-            <element signature="e#10364#11486#0" expanded="false" />
-            <element signature="e#11496#12759#0" expanded="false" />
-            <element signature="e#12769#13902#0" expanded="false" />
-            <element signature="e#13922#19733#0" expanded="false" />
-            <element signature="e#14066#15517#0" expanded="false" />
-            <marker date="1499935228030" expanded="false" signature="1432:2609" ph="{&quot;id&quot;: 2...}" />
-            <marker date="1499935228030" expanded="false" signature="2619:3848" ph="{&quot;id&quot;: 3...}" />
-            <marker date="1499935228030" expanded="false" signature="6516:7662" ph="{&quot;id&quot;: 6...}" />
-            <marker date="1499935228030" expanded="false" signature="15527:16830" ph="{&quot;id&quot;: 2...}" />
-            <marker date="1499935228030" expanded="false" signature="16840:17759" ph="{&quot;id&quot;: 3...}" />
-            <marker date="1499935228030" expanded="false" signature="17769:18744" ph="{&quot;id&quot;: 4...}" />
-            <marker date="1499935228030" expanded="false" signature="18754:19719" ph="{&quot;id&quot;: 5...}" />
+            <element signature="e#1611#2932#0" expanded="false" />
+            <element signature="e#2942#4307#0" expanded="false" />
+            <element signature="e#4317#5923#0" expanded="false" />
+            <element signature="e#5933#7187#0" expanded="false" />
+            <element signature="e#8493#9879#0" expanded="false" />
+            <element signature="e#9889#11060#0" expanded="false" />
+            <element signature="e#20698#21416#0" expanded="false" />
+            <element signature="e#20704#20868#0" expanded="false" />
+            <element signature="e#20874#21050#0" expanded="false" />
+            <element signature="e#21056#21230#0" expanded="false" />
+            <element signature="e#21236#21412#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceItem/serviceItem.vue">
+    <entry file="file://$PROJECT_DIR$/daoway/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="56" column="55" lean-forward="false" selection-start-line="56" selection-start-column="55" selection-end-line="56" selection-end-column="55" />
+        <state relative-caret-position="135">
+          <caret line="18" column="42" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/mainList/mainList.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="n#router-link#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#2495#2598#0" expanded="false" />
+            <element signature="e#3163#3478#0" expanded="false" />
+            <element signature="e#3999#4608#0" expanded="false" />
+            <element signature="e#4248#4608#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daoway/src/components/serviceDetail/serviceDetail.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="85" column="40" lean-forward="true" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#h3#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#2;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="n#div#3;n#div#1;n#div#2;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="false" />
-            <element signature="e#4760#4801#0" expanded="true" />
-            <element signature="n#style#0;n#!!top" expanded="false" />
-            <element signature="e#5208#5351#0" expanded="false" />
-            <element signature="e#5370#5865#0" expanded="false" />
-            <element signature="e#5936#9676#0" expanded="false" />
-            <element signature="e#6009#6984#0" expanded="false" />
-            <element signature="e#6238#6506#0" expanded="false" />
-            <element signature="e#6536#6984#0" expanded="false" />
-            <element signature="e#7007#8787#0" expanded="false" />
-            <element signature="e#7023#8732#0" expanded="false" />
-            <element signature="e#7402#8283#0" expanded="false" />
-            <element signature="e#7470#7592#0" expanded="false" />
-            <element signature="e#7776#8037#0" expanded="false" />
-            <element signature="e#8072#8283#0" expanded="false" />
-            <element signature="e#8311#8732#0" expanded="false" />
+            <element signature="n#style#0;n#p#4;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="e#2351#2406#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -1,8 +1,8 @@
 <template>
   <div>
     <v-header></v-header>
-    <div class="service_wrapper">
-      <div class="service_detail">
+    <div class="service_wrapper" v-if="serviceItem.id==$route.params.whichitem" v-for="serviceItem in serviceItems">
+      <div class="service_detail" v-if="serve.id==$route.params.whichserve" v-for="serve in serviceItem.server">
         <h2>
           所有分类
           <i class="bright">></i>
@@ -67,36 +67,12 @@
     props: ['serviceItems'],
     data () {
       return {
-        serviceItem: {},
-        serve: {}
       }
     },
-    created () {
-      /*if (this.serviceItems == []) {
-        return
-      }*/
-      this.serviceItems.forEach((item) => {
-        if (item.id == this.$route.params.whichitem) {
-          // 获得当前服务项目类
-          this.serviceItem = item
-          console.log(this.serviceItem.server)
-          this.serviceItem.server.forEach((serve) => {
-            if (serve.id == this.$route.params.whichserve) {
-              this.serve = serve
-              // console.log(this.serve)
-            }
-          })
-        }
-      })
-
-      // console.log(this.serve)
-    },
     computed: {
-      /*serveContent () {
-        let content = []
-        content = this.serve.content.split('*')
-        return content
-      }*/
+    },
+    methods: {
+
     },
     components:{
       'v-header':header,

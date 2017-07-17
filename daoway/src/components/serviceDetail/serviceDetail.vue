@@ -6,7 +6,7 @@
         <h2>
           所有分类
           <i class="bright">></i>
-          <i class="item_list"><router-link to="/item/baojie">{{serve.type}}</router-link></i>
+          <i class="item_list"><router-link :to="`/item/${serviceItem.id}`">{{serve.type}}</router-link></i>
           <i class="bright">></i>
         </h2>
         <div class="detail_left">

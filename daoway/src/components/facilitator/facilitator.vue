@@ -7,238 +7,30 @@
         <div class="centerleft">
           <div class="tabdiv">
             <ul class="ulactivety">
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
+              <li v-for="(prove, index) in provider" :key="index">
+                <img :src="prove.providerImg">
                 <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
+                  <img src="./home1.png">
+                  <b>{{prove.name}}</b>
                 </p>
                 <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
+                  已接单{{prove.receive}}单
+                  <i>好评{{prove.goodjob}}%</i>
                 </p>
               </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
-              <li>
-                <img src="../../img/main/4bf67c19-4d37-487c-9fc9-c39701a54951_thumb.jpg">
-                <p class="liname">
-                  <img src="../../img/main/home1.png" alt="">
-                  <b>宜生到家</b>
-                </p>
-                <p class="goodjob1">
-                  已接单11952单
-                  <i>好评98%</i>
-                </p>
-              </li>
+
             </ul>
           </div>
           <div class="getServiceList">
             <span>查看更多商家
-              <img src="../../img/main/fuwu_down2.jpg">
+              <img src="./fuwu_down2.jpg">
             </span>
           </div>
         </div>
         <div class="centerright">
-          <img style="cursor:pointer" src="../../img/main/tuijianfuwushang_03.jpg">
+          <img style="cursor:pointer" src="./tuijianfuwushang_03.jpg">
           <div class="erweima">
-            <img src="../../img/main/daowayApp.png">
+            <img src="./daowayApp.png">
           </div>
         </div>
       </div>
@@ -252,12 +44,13 @@
   import header from '../header/header.vue'
   import footer from '../footer/footer.vue'
 
-    export default {
-      components: {
-        'd-header': header,
-        'd-footer': footer
-      }
+  export default {
+    props: ['provider'],
+    components: {
+      'd-header': header,
+      'd-footer': footer
     }
+  }
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">

@@ -40,9 +40,7 @@
   import axios from 'axios'
   export default {
     props: ['serviceItems'],
-    data () {
 
-    },
     methods: {
 
     }
